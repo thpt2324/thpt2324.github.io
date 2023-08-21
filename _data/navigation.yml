@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Toán"
+    url: /Toan/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Vật Lý"
+    url: /vl/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Hóa Học"
+    url:  /h/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Sinh Học"
+    url: /s/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Tiếng Anh"
+    url: /a/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Ngữ Văn"
+    url: /v/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Khóa Học Tổng Hợp"
+    url: /kh/
